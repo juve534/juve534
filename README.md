@@ -12,3 +12,6 @@ I'm a web developer in Kanazawa, Japan.
 - 📝 Writing technical articles on [Blog](https://juve534.hatenablog.com)
 - 🌱 My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/juve_534/posts.svg)](http://qiita.com/juve_534)
+
+### :pencil: Top Languages Card
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=juve534)
